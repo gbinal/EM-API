@@ -1,0 +1,6 @@
+#this is what you'd change
+status: true
+
+#build setting
+server: true
+auto: true

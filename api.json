@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/
+---
+{"status": "{{ site.status}}"}
